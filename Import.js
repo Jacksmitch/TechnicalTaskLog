@@ -39,6 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     // creating the link item for the markdown doc links
                     var link = document.createElement("a");
                     link.href = item[key];
+                    link.target = "_blank"
                     link.innerHTML = item[key].split("/")[item[key].split("/").length - 1];
                     // add it into the cell of the table
                     cell.appendChild(link);
