@@ -1,0 +1,20 @@
+[
+    {
+        "Task": "Setting Up a ArcGIS Server on GCP",
+        "Platform": "ArcGIS,GCP",
+        "Markdown Solution Document": "https://github.com/Jacksmit-Fleming/TechnicalActivityLog/blob/main/ArcGISServerGCP.md",
+        "Date Completed": "2024-03-02",
+        "Start Time": "13:00:00",
+        "End Time": "14:00:00",
+        "Total Time": "1hr"
+    },
+    {
+        "Task": "Publish Canada service to your own GCP VM",
+        "Platform": "ArcGIS,GCP",
+        "Markdown Solution Document": "https://github.com/Jacksmit-Fleming/TechnicalActivityLog/blob/main/ArcGISServerGCP.md",
+        "Date Completed": "2024-03-02",
+        "Start Time": "16:00:00",
+        "End Time": "17:00:00",
+        "Total Time": "1hr"
+    }
+]
