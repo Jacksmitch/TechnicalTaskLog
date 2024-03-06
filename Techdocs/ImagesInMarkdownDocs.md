@@ -9,3 +9,4 @@ Using the following code snippet will imbed a image image of your choosing into 
 ![Image Name](https://Imagelink "Alt Text")
 ```
 ### Example Image
+![Example Image](https://github.com/Jacksmitch/TechnicalTaskLog/blob/main/Techdocs/images/ExampleImage.png "Just a code snippet to show an example image")
