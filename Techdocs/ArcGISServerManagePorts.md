@@ -13,7 +13,7 @@ Rule Type - Select "Port" \
 Protocol and Ports - select "Specific local Ports" and enter 6443,6080 \
 Action - Select "Allow the connection" *should be selected by default* \
 Profile - Leave all selected *should be done by default* \
-Name - Give the Rule a suitable Name and Description  \
+Name - Give the Rule a suitable Name and Description 
 
 Click "Finish" at the bottom to create the rule
 
