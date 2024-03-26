@@ -16,5 +16,23 @@
         "Start Time": "18:00:00",
         "End Time": "18:10:00",
         "Total Time": "10 mins"
+    },
+    {
+        "Task": "Creating a self-signed certificate in IIS For Windows 10",
+        "Platform": "Windows 10, IIS Manager",
+        "Markdown Solution Document": "https://github.com/Jacksmitch/TechnicalTaskLog/blob/main/Techdocs/SelfSignedCertificateISS.md",
+        "Date Completed": "2024-03-13",
+        "Start Time": "00:30:00",
+        "End Time": "00:45:00",
+        "Total Time": "15 min"
+    },
+    {
+        "Task": "Binding a certificate to port 443 in IIS For Windows 10",
+        "Platform": "Windows 10, IIS Manager",
+        "Markdown Solution Document": "https://github.com/Jacksmitch/TechnicalTaskLog/blob/main/Techdocs/BindingCertificateISS.md",
+        "Date Completed": "2024-03-13",
+        "Start Time": "00:45:00",
+        "End Time": "01:00:00",
+        "Total Time": "15 min"
     }
 ]

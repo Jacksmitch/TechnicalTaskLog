@@ -1,5 +1,5 @@
 # Created By Jackson Mitchell
-# Last Updated: 2024-03-02
+# Last Updated: 2024-03-26
 
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -27,7 +27,8 @@ for col in TechSheet:
     HeaderList.append(col)
 
 # Loop thu each row given the number of full row
-for row in range(2):
+# range(#) set to number of Logs
+for row in range(4):
     TaskJson = {}
     for col in TechSheet:
         if col == HeaderList[3]:
