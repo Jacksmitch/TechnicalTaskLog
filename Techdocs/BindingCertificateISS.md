@@ -15,4 +15,4 @@ With the "Site Binding" window click on "Add..." if you do not have a already cr
 ### Thats All
 See the below link if you need to see how to create a Self-Signed Certificate.
 
-[Link]
+[Creating a Self-Signed Certificate](https://github.com/Jacksmitch/TechnicalTaskLog/blob/main/Techdocs/SelfSignedCertificateISS.md)
