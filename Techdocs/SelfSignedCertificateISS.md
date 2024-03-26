@@ -12,5 +12,5 @@ In The Actions panel select "Create Self-Signed Certificate...". Next for your n
 ### Thats All
 See the below link if you need to see how to bind your created Certificate to SSL Port.
 
-[Link]
+[Binding a certificate to port 443](https://github.com/Jacksmitch/TechnicalTaskLog/blob/main/Techdocs/BindingCertificateISS.md)
 
