@@ -1,13 +1,13 @@
 /* 
     Created By Jackson Mitchell
-    Last Updated: 2024-03-02
+    Last Updated: 2024-03-27
 
     SOURCES
-    For help creating code ChatGPT was used and modified 
+    For creating code ChatGPT was used and the code was modified 
 */
 
 html {
-    background-color:cornsilk;
+    background-color:rgb(255, 251, 235);
 }
 * { 
     font-family: Consolas; 
@@ -29,23 +29,31 @@ p {
 
 /* task table css */
 table { 
+    width: 90%;
+    table-layout: fixed;
     margin-top: 50px;
     margin-bottom: 80px;
-    border-collapse: collapse; 
-    width: 80%;
+    border-collapse: collapse;
+}
+table th, table td {
+    width: 20%; /* Adjust this value as needed */
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ccc;
 }
 table thead {
     font-size: 20px;
-    background: #bdb9b9;
 }
 table th {
     padding: 15px;
+    background: #bdb9b9;
 }
-table tbody {  
-    background: #e4e4e4; 
+table tr:nth-child(odd) {
     text-align: center;
+    background: #e4e4e4;
 }
-table tr:nth-child(even) {  
+table tr:nth-child(even) {
+    text-align: center;  
     background: #f2f2f2; 
 }
 table td {
@@ -53,3 +61,10 @@ table td {
     
 }
 
+/* Ordering CSS */
+.asc {
+    background: #ff0000; 
+}
+.desc {
+    background: #00ff73; 
+}

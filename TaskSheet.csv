@@ -1,0 +1,5 @@
+Task,Platform,Markdown Solution Document,Date Completed
+Enabling ArcGIS Server Management Ports (GEOM 99),ArcGIS Server,https://github.com/Jacksmitch/TechnicalTaskLog/blob/main/Techdocs/ArcGISServerManagePorts.md,2024-03-02
+Adding an Image to a Markdown Document,Markdown,https://github.com/Jacksmitch/TechnicalTaskLog/blob/main/Techdocs/ImagesInMarkdownDocs.md,2024-03-06
+Creating a self-signed certificate in IIS For Windows 10,"Windows 10, IIS Manager",https://github.com/Jacksmitch/TechnicalTaskLog/blob/main/Techdocs/SelfSignedCertificateISS.md,2024-03-13
+Binding a certificate to port 443 in IIS For Windows 10,"Windows 10, IIS Manager",https://github.com/Jacksmitch/TechnicalTaskLog/blob/main/Techdocs/BindingCertificateISS.md,2024-03-13
